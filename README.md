@@ -9,5 +9,6 @@ Use OsiriX Plugins developed during the internship in the UCLA MRI Lab
 
 ### Images: 
 
-![Image text](https://raw.githubusercontent.com/xcy25813/ROI_Data/master/img/1.png)
-![Image text](https://raw.githubusercontent.com/xcy25813/ROI_Data/master/img/2.png)
+![Image text](https://raw.githubusercontent.com/xcy25813/OsiriX-Plugins/master/img/2.png)
+![Image text](https://raw.githubusercontent.com/xcy25813/OsiriX-Plugins/master/img/3.png)
+![Image text](https://raw.githubusercontent.com/xcy25813/OsiriX-Plugins/master/img/4.png)
